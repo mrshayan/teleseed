@@ -216,8 +216,6 @@ function create_config( )
     "stats",
     "anti_spam",
     "owners",
-    "lock_join",
-    "anti_link",
     "arabic_lock",
     "set",
     "info",
