@@ -1252,6 +1252,7 @@ return {
   "^[!/](link)$",
   "^[!/](kickinactive)$",
   "^[!/](kickinactive) (%d+)$",
+  "^([Hh]elp)$",
   "%[(photo)%]",
   "^!!tgservice (.+)$",
   },
