@@ -1,4 +1,3 @@
-
 package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
   ..';.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
@@ -405,9 +404,12 @@ will return group logs
 سرچ از گوگل
 !banlist
 لیست افراد تحریم شده
-**U can use both "/" and "!" 
+
+**U can use both "/" and "!"
+
 channel:@tiger_channel
 creater:@shayan31323
+
 🔥TIGER_ANTISPAM🔥
 ]]
   }
