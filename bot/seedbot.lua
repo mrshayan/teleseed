@@ -310,28 +310,40 @@ This command will send text to [group_id]
 ]],
     help_text = [[
 ❤️لیست دستورات❤️ :
+
 !kick [username|id]
 ریمو کردن فرد
+
 !ban [ username|id]
 تحریم کردن فرد
+
 !unban [id]
 در اوردن از تحریم
+
 !who
 لیست اعضا
+
 !time [country city]
 ساعت کشور مورد نظر
+
 !modlist
 لیست ادمین ها
+
 !promote [username]
 فرد ادمین گروه شود
+
 !text [کلمه]
 تبدیل متن به عکس
+
 !filter + کلمه
 فیلتر کلمه
+
 !listft
 لست کلمات فیلتر شده
+
 !demote [username]
 در اوردن فرد از ادمینی
+
 !lock join
 قفل ورود اعضا با لینک 
  
@@ -340,68 +352,99 @@ This command will send text to [group_id]
  
 !support
 دعوت سازنده ربات به گروه
+
 !kickme
 ترک گروه
+
 !calc [عملیات]
 ماشین حساب
+
 !linkpv
 فرستادن لینک در پی وی بات
+
 !info
 مشخصات فرد مورد نظر
+
 !version
 ورژن ربات
+
 !boobs
 فرستادن عکس سکسی
+
 !about
 درباره گروه
+
 !setphoto
 اضافه کردن عکس گروه
+
 !setname [name]
 اضافه کردن نام گروه
+
 !rules
 قوانین گروه
+
 !id
 برگرداندن ایدی فرد
+
 !echo [کلمه]
 تکرار کلمه مورد نظر
+
 !help
+
 !lock [member|name|bots|leave]	
 Locks [member|name|bots|leaveing] 
 قفل:اعضا.نام.بات.خروج.چت عربی
+
 !unlock [member|name|bots|leave]
 Unlocks [member|name|bots|leaving]
 باز کردن.اعضا.نام.بات ها.خروج.چت عربی
+
 !set rules <text>
 اضافه کردن قانون برای گروه
+
 !set about <text>
 اضافه کردن درباره گروه
+
 !settings
 تنظیمات
+
 !newlink
 ساختن لینک جدید
+
 !link
 لینک گپ
+
 !owner
 ادمین اصلی
+
 !setowner [id]
 اضافه کردن به عنوان ادمین اصلی
+
 !setflood [عدد]
 حساسیت به اسپم=کیک
+
 !stats
 Simple message statistics
+
 !save [value] <text>
 Save <text> as [value]
+
 !get [value]
 Returns text of [value]
+
 !clean [modlist|rules|about|member]
 پاکسازی:ادمین ها.قوانین.درباره گروه.ممبرها
+
 !res [username]
 برگرداندن ایدی به کد
 "!res @username"
+
 !log
 will return group logs
+
 !google 
 سرچ از گوگل
+
 !banlist
 لیست افراد تحریم شده
 
