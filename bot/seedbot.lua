@@ -342,12 +342,6 @@ This command will send text to [group_id]
 !demote [username]
 در اوردن فرد از ادمینی
 
-!lock join
-قفل ورود اعضا با لینک 
- 
- !lock link
- قفل تبلیغات
- 
 !support
 دعوت سازنده ربات به گروه
 
@@ -389,11 +383,13 @@ This command will send text to [group_id]
 
 !help
 
-!lock [member|name|bots|leave]	
+!lock [member|name|bots|leave]
+
 Locks [member|name|bots|leaveing] 
 قفل:اعضا.نام.بات.خروج.چت عربی
 
 !unlock [member|name|bots|leave]
+
 Unlocks [member|name|bots|leaving]
 باز کردن.اعضا.نام.بات ها.خروج.چت عربی
 
