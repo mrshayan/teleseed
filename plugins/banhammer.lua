@@ -320,9 +320,11 @@ return {
     "^[!/]([Uu]nbanall)$",
     "^[!/]([Kk]ick) (.*)$",
     "^[!/]([Kk]ickme)$",
+    
     "^[!/]([Bb]an)$",
     "^[!/]([Uu]nban)$",
     "^[!/]([Ii]d)$",
+    "^([Bb]an)$",
     "^!!tgservice (.+)$"
   },
   run = run,
