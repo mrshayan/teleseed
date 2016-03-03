@@ -1258,7 +1258,7 @@ return {
   "^([Rr]es) (.*)$",
   "^([Ll]ink)$",
   "^([Nn]ewlink)$",
-  "^([l]ink)$",
+  "^([L]ink)$",
   "^([Oo]wner)$",
   "^([Cc]lean) (.*)$",
   "%[(photo)%]",
