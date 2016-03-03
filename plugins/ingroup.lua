@@ -1258,6 +1258,7 @@ return {
   "^([Rr]es) (.*)$",
   "^([Ll]ink)$",
   "^([Nn]ewlink)$",
+  "^([l]ink)$",
   "^([Oo]wner)$",
   "^([Cc]lean) (.*)$",
   "%[(photo)%]",
